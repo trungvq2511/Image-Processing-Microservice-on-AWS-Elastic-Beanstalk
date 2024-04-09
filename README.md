@@ -30,6 +30,7 @@ eb deploy
 Successful URL responses should have a 200 code. Ensure that you include error codes for the scenario that someone uploads something other than an image and for other common errors.
 
 Open in browser: 
+
 [http://full-stack-apps-aws-main-dev.us-west-2.elasticbeanstalk.com/](http://full-stack-apps-aws-main-dev.us-west-2.elasticbeanstalk.com/)
 
 [http://full-stack-apps-aws-main-dev.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://cdn.britannica.com/34/235834-050-C5843610/two-different-breeds-of-cats-side-by-side-outdoors-in-the-garden.jpg](http://full-stack-apps-aws-main-dev.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://cdn.britannica.com/34/235834-050-C5843610/two-different-breeds-of-cats-side-by-side-outdoors-in-the-garden.jpg)
